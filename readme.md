@@ -1,5 +1,5 @@
-# Aplcación para hacer un test de preguntas (quizz tandem)
-Es un juego de preguntas y respuestas de mierda hacho con la mierda de javascript
+# Aplicación para hacer un test de preguntas (quizz tandem)
+Es un juego de preguntas y respuestas de Aranjuez
 ## Objetivos
 Crear una interfaz que sirva indistintamente a diferentes preguntas (un template)
 ## Funcionalidades
