@@ -1,0 +1,242 @@
+{
+    "title": "Historia de Aranjuez",
+    "id_test": "",
+    "description": "Conoce datos históricos de Aranjuez",
+    "author": "Cristian",
+    "img_feature": {
+        "url": "./img/oso_logo.png",
+        "alt": ""
+    },
+    "questions": [
+        {
+            "id": 1,
+            "question": "¿Quién fue el rey que ordenó la construcción del Palacio Real de Aranjuez en el siglo XVI?",
+            "answer": {
+                "a": "Felipe II",
+                "b": "Felipe III",
+                "c": "Felipe IV",
+                "d": "Felipe V"
+            },
+            "results": {
+                "a": true,
+                "b": false,
+                "c": false,
+                "d": false
+            },
+            "img": {
+                "url": "img/question1.jpg",
+                "alt": "Question 1",
+                "desc": "Palacio Real de Aranjuez"
+            },
+            "hint": "Fue el mismo monarca que ordenó la construcción del Monasterio de El Escorial",
+            "curiosity": "El Palacio Real de Aranjuez fue diseñado para ser una residencia de recreo para la realeza española."
+        },
+        {
+            "id": 2,
+            "question": "¿Cuál es el nombre del río que atraviesa Aranjuez?",
+            "answer": {
+                "a": "Tajo",
+                "b": "Guadalquivir",
+                "c": "Duero",
+                "d": "Ebro"
+            },
+            "results": {
+                "a": true,
+                "b": false,
+                "c": false,
+                "d": false
+            },
+            "img": {
+                "url": "img/question2.jpg",
+                "alt": "Question 2",
+                "desc": "Río Tajo"
+            },
+            "hint": "Es el río más largo de la península ibérica",
+            "curiosity": "El río Tajo juega un papel importante en la geografía y el paisaje de Aranjuez, proporcionando un entorno natural único."
+        },
+        {
+            "id": 3,
+            "question": "¿Qué monarca español estableció Aranjuez como un Real Sitio?",
+            "answer": {
+                "a": "Carlos III",
+                "b": "Fernando VII",
+                "c": "Felipe II",
+                "d": "Alfonso XIII"
+            },
+            "results": {
+                "a": false,
+                "b": false,
+                "c": true,
+                "d": false
+            },
+            "img": {
+                "url": "img/question3.jpg",
+                "alt": "Question 3",
+                "desc": "Felipe II"
+            },
+            "hint": "Es conocido como el 'El Prudente'",
+            "curiosity": "Gobernó durante uno de los períodos más importantes de la historia de España."
+        },
+        {
+            "id": 4,
+            "question": "¿En qué año se nombró Aranjuez como 'Real Sitio y Villa de Aranjuez'?",
+            "answer": {
+                "a": "1560",
+                "b": "1670",
+                "c": "1752",
+                "d": "1805"
+            },
+            "results": {
+                "a": true,
+                "b": false,
+                "c": false,
+                "d": false
+            },
+            "img": {
+                "url": "img/question4.jpg",
+                "alt": "Question 4",
+                "desc": "Escudo Aranjuez"
+            },
+            "hint": "En pocos años se cumplirá su quinto centenario",
+            "curiosity": "En el escudo se representa el rio, el palacio y la cruz de Santiago"
+        },
+        {
+            "id": 5,
+            "question": "¿Cúantos habitantes aproximadamente tenía Aranjuez en 2023?",
+            "answer": {
+                "a": "90.000 habs",
+                "b": "50.000 habs",
+                "c": "60.000 habs",
+                "d": "150.000 habs"
+            },
+            "results": {
+                "a": false,
+                "b": false,
+                "c": true,
+                "d": false
+            },
+            "img": {
+                "url": "img/question5.jpg",
+                "alt": "Question 5",
+                "desc": "Plaza del Ayuntamiento"
+            },
+            "hint": "La cifra se encuentra dentro del rango de 50.000 a 80.000 habitantes",
+            "curiosity": "Aranjuez ha experimentado un crecimiento poblacional constante en las últimas décadas debido a su atractivo turístico y su proximidad a Madrid."
+        },
+        {
+            "id": 6,
+            "question": "¿Quién fue el arquitecto principal del Teatro Real Carlos III en Aranjuez?",
+            "answer": {
+                "a": "Jaime Marquet",
+                "b": "Juan de Herrera",
+                "c": "Filippo Juvarra",
+                "d": "Pedro de Ribera"
+            },
+            "results": {
+                "a": true,
+                "b": false,
+                "c": false,
+                "d": false
+            },
+            "img": {
+                "url": "img/question6.jpg",
+                "alt": "Question 6",
+                "desc": "Teatro Real Carlos III"
+            },
+            "hint": "Fue un arquitecto francés autor también de la Real Casa de Correos de la Puerta del Sol",
+            "curiosity": "El Teatro Real Carlos III es uno de los pocos teatros de época que se conservan en España."
+        },
+        {
+            "id": 7,
+            "question": "¿Qué rey español ordenó la construcción de los Jardines del Príncipe en Aranjuez?",
+            "answer": {
+                "a": "Felipe IV",
+                "b": "Carlos II",
+                "c": "Carlos IV",
+                "d": "Fernando VII"
+            },
+            "results": {
+                "a": false,
+                "b": false,
+                "c": true,
+                "d": false
+            },
+            "img": {
+                "url": "img/question7.jpg",
+                "alt": "Question 7",
+                "desc": "Jardines del Príncipe"
+            },
+            "hint": "Fue hijo de Carlos III",
+            "curiosity": "Los Jardines del Príncipe son un ejemplo destacado del diseño paisajístico del siglo XVIII en Europa."
+        },
+        {
+            "id": 8,
+            "question": "¿En que año ocurrió el Motín de Aranjuez?",
+            "answer": {
+                "a": "1685",
+                "b": "1808",
+                "c": "1850",
+                "d": "1799"
+            },
+            "results": {
+                "a": false,
+                "b": true,
+                "c": false,
+                "d": false
+            },
+            "img": {
+                "url": "img/question8.jpg",
+                "alt": "Question 8",
+                "desc": "Motín de Aranjuez"
+            },
+            "hint": "Fue el mismo año que ocurrieron los levantamientos del 2 de mayo",
+            "curiosity": "El Motín de Aranjuez tuvo un impacto significativo en la historia de España y fue reflejado en diversas formas artísticas."
+        },
+        {
+            "id": 9,
+            "question": "¿Qué producto es famoso en la huerta de Aranjuez?",
+            "answer": {
+                "a": "pepino",
+                "b": "fresa",
+                "c": "melón",
+                "d": "sandía"
+            },
+            "results": {
+                "a": false,
+                "b": true,
+                "c": false,
+                "d": false
+            },
+            "img": {
+                "url": "img/question9.jpg",
+                "alt": "Question 9",
+                "desc": "huerta"
+            },
+            "hint": "Se pueden hacer tartas y mermeladas con este poducto",
+            "curiosity": "El cultivo de la fresa en Aranjuez se remonta al siglo XVI, cuando fue introducido por la realeza española."
+        },
+        {
+            "id": 10,
+            "question": "¿Cuál de los siguientes pintores españoles estuvo inspirado por Aranjuez en algunas de sus obras?",
+            "answer": {
+                "a": "Pablo Picasso",
+                "b": "Diego de Velázquez",
+                "c": "",
+                "d": "Francisco de Goya"
+            },
+            "results": {
+                "a": false,
+                "b": false,
+                "c": false,
+                "d": true
+            },
+            "img": {
+                "url": "img/question10.jpg",
+                "alt": "Question 10",
+                "desc": "Pintura de Francisco de Goya"
+            },
+            "hint": "Es conocido por sus obras de temática histórica y social",
+            "curiosity": "Goya capturó la esencia de Aranjuez en algunas de sus pinturas, reflejando tanto la belleza de los paisajes como la vida cotidiana en la corte."
+        }
+    ]
+}

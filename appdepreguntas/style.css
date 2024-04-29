@@ -1,0 +1,78 @@
+/* Estilo general para el cuerpo de la página */
+body {
+  font-family: sans-serif; /* Elige una fuente sans-serif de tu preferencia */
+  margin: 20px; /* Añade un margen alrededor del contenido */
+  background-color: #f0f0f0; /* Color de fondo claro */
+}
+
+/* Contenedor principal para las preguntas */
+#root {
+  max-width: 800px; /* Limita el ancho del contenedor */
+  margin: 0 auto; /* Centra el contenedor horizontalmente */
+  padding: 20px; /* Añade relleno al contenedor */
+  border: 1px solid #ccc; /* Borde gris claro */
+  border-radius: 5px; /* Esquinas redondeadas */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+}
+
+/* Título de la página */
+h1 {
+  text-align: center; /* Centra el título horizontalmente */
+  margin-bottom: 20px; /* Añade espacio debajo del título */
+}
+
+/* Cada pregunta */
+.pregunta {
+  margin-bottom: 30px; /* Espacio entre preguntas */
+}
+
+/* Enunciado de la pregunta */
+.pregunta p {
+  font-size: 18px; /* Tamaño de fuente para el enunciado */
+  margin-bottom: 10px; /* Espacio debajo del enunciado */
+}
+
+/* Imagen de la pregunta */
+.pregunta img {
+  width: 100%; /* Ajusta el ancho de la imagen al contenedor */
+  max-height: 300px; /* Limita la altura de la imagen */
+  margin-bottom: 15px; /* Espacio debajo de la imagen */
+}
+
+/* Opciones de respuesta */
+
+.pregunta .opciones input[type="radio"]:hover + label {
+  background-color: #eee; /* Color de fondo al pasar el cursor */
+  /* Se agrega el estilo para el texto de la etiqueta */
+  color: #333; /* Color de texto al pasar el cursor */
+}
+
+.pregunta .opciones input[type="radio"] {
+  margin-right: 10px; /* Espacio entre las opciones */
+}
+
+.pregunta .opciones label {
+  cursor: pointer; /* Permite que el usuario haga clic en la etiqueta */
+}
+
+/* Pista y curiosidad */
+.pregunta p.pista,
+.pregunta p.curiosidad {
+  font-size: 14px; /* Tamaño de fuente para pista y curiosidad */
+  color: #666; /* Color gris claro para pista y curiosidad */
+  margin-top: 10px; /* Espacio encima de pista y curiosidad */
+}
+
+/* Botón de envío */
+button[type="button"] {
+  padding: 10px 20px; /* Tamaño del relleno del botón */
+  background-color: #4CAF50; /* Color verde */
+  color: white; /* Color de texto blanco */
+  border: none; /* Elimina el borde del botón */
+  cursor: pointer; /* Permite que el usuario haga clic en el botón */
+}
+
+/* Hover para el botón de envío */
+button[type="button"]:hover {
+  background-color: #45a049; /* Color verde más oscuro al pasar el cursor */
+}
