@@ -7,5 +7,5 @@ Crear una interfaz que sirva indistintamente a diferentes preguntas (un template
 - Las preguntas deben de tener 4 respuestas, una válida, tipo test y 
 - Cada pregunta debe tener una imagen
 - Debe haber una pista para cada pregunta (que aparezca en un botón lateral que al clickar salga la pista)
-- La interfaz debe ser estilo mierda de formulario y las respuestas se elijan con input tipo radio
+- La interfaz debe ser estilo de formulario y las respuestas se elijan con input tipo radio
 - El css debe darle a la interfaz una apariencia apropiada para un público de 14 a 16 años
