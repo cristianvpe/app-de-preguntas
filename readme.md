@@ -4,7 +4,7 @@ Es un juego de preguntas y respuestas de Aranjuez
 Crear una interfaz que sirva indistintamente a diferentes preguntas (un template)
 ## Funcionalidades
 - La información de las preguntas debe estar alamacenada en un archivo json externo
-- Las preguntas deben de tener 4 respuestas, una válida, tipo test y 
+- Las preguntas deben de tener 4 respuestas, una válida, tipo test  
 - Cada pregunta debe tener una imagen
 - Debe haber una pista para cada pregunta (que aparezca en un botón lateral que al clickar salga la pista)
 - La interfaz debe ser estilo de formulario y las respuestas se elijan con input tipo radio
